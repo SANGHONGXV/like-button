@@ -1,5 +1,7 @@
 # like-button
 
+[image](https://img.cdn.aliyun.dcloud.net.cn/stream/plugin_screens/e03296c0-9984-11ea-9ca7-43458180c961_0.jpg?v=1590387210)
+
 #### 使用方法:
 在 **script** 中引用组件
 ```javascript
